@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "growtalk-459516",
+  "private_key_id": "e847c39f3f63358bddbdd053e7c2550c644011e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCgMyi4kTIz2l5S\nRlDmt1TVuPSbLrBDefHcanbjmPsh/PbRK+JQylHEjheAEGa7K5SLeh5kZQ9GSTmU\nu1PKDdvRWc3Mc+T5IgK/HvnmCajdh+NNw1J08EenUtxRJkEh06fDxxRzb6xxtDpx\nidxCN+lmR+ZMZCXa7dBJdl0uIqJWBeWHtQ+V1VdeA+mD9FUby+DjkM/42gdbkpsd\njBn5XU1jz74nrWahjJLt5dMuBaOYMVOYaQ34rrY3ACEH5vY9vspXbqp7t+QZC8he\nw43uOh1F+wt67X1pa8AwfA6nUi+cK3bsZ88MvBGoOIdoLgCmNyjRdeZmLkgQpZIe\nMpejCxenAgMBAAECggEAIXcechPuy1M6MfC7dL7mi3EENCi4LJhcVIGvDVOHXq3D\n96U1tU/WbfuK4DdM5puvf8WGdM2Bt9qTG0VYtxRXD7A1ZBjvw7V9omQ7qvjonEKH\nUtbTMleBeGxAVvlpUMIwwR6k4Ip7GROfw9kbOIAKk1HAw8OF/uqAAOCnjXwxskta\n9+3rhQhIv33GvGuLiq7SfNKWnEtcD1+9nkyDs1A6/ZKwEpBFYboTWZZFnOajR1En\n/og11+p7WalEVtWFNVRRaufQV9JhP2UvipSGPCEbT9P0UylXMrPzxt/IGN5XAp+X\nv1qq+xfeVsv+6zvoJdmY+UcEbMXjWw8Q88eeG1jS/QKBgQDg/Eci0oUxoICuSm98\nrYvx+FBHdjOytAbzGLLrdsJEmIYT6rsJ16dgKVkkndOIM+CvcggzifCrbZDCWhXT\nNSg3GYgth3A3pvdzhnDh+V9yRBy3Q19J76qVo45gK3CPOcPIT5Lg4+jefq7zs8pg\n3t188aW6m8YALApnZfeIHp0pAwKBgQC2SJnUz28K3VG/0PnzAdW8589eF/jQq//o\npGyKOR6TqqeM6casTBkRc8kt2ERHd2rXmNKEnryifW4sT6HYlf2CUwRDAzUAUxsJ\nRuh+CbdKV/Hd3kYGcoZIe02u66gJGZuEtXz0QoU3bpF2xdkYFXrYzRrZ+gcxVWHA\nRyWH3YgrjQKBgQDTHAXH6BAxE/ELGi9opxPU1fLGS2SRP5nxy3A/v6zkXtYYpD4j\nKycT9Vh/IlUVzc/78J0/dyTMRr/5jjxCdfOpWBzO0/J5VgOFdFZBxBRKjR0A3Yfx\nQaEoTlNPbBNvYX2TXQ9uVIzzEZ4qcL7qjNT542lmI7rz+F8+zJArOsavbwKBgQC1\nXldxX1PlQ4Drkkqgd9rrMtspjECNoBXorHEyttKtqsc7df+vv6fRrZsmemC1myQ7\nkFsmiaq3IoZUoIcwsUykN2WuJ6q8v/POrzb08UXmOsr1LwwNrjXeOJF60g9Hvqr2\nyH2jq+xQ0zr5KrJvPDAXNzzYVeaCN6ojXqcBIHM0oQKBgQC4Ji3b8B40f0StKmDb\nnhe9PRHikKCSdu7Iz05omjs9UTkowoej4+k3pDL9xPSzf3/fwcDOglwmUUTdOgIP\nlrY4p+SA0m/4Dp2e8B28ia3L2hSxdQGLmc4q9yydV/4L3zV4FH3UEMhmwZ2Xjj3A\n1SMrUhJovPNkBsYRYQL2u2P7+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "growtalk-new@growtalk-459516.iam.gserviceaccount.com",
+  "client_id": "107884467284706406556",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/growtalk-new%40growtalk-459516.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
